@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Almost Everything 🤣**
 
-- 👨‍💻 All of my projects are available at [www.patelvinay.com](www.patelvinay.com)
-
 - 💬 Ask me about **Java, Javascript, Android**
 
 - 📫 How to reach me **vinaybharat68@gmail.com**
