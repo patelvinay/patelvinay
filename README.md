@@ -18,5 +18,3 @@
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patelvinay&layout=compact" alt="patelvinay" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patelvinay&show_icons=true" alt="patelvinay" /></p>
